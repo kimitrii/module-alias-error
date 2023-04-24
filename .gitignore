@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# environment variables
+.env
+
+# compiled files
+/dist
+
+# Vscode config
+/.vscode
